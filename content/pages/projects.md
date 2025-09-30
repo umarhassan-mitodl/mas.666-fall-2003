@@ -2,6 +2,8 @@
 content_type: page
 description: These are some rough drafts of proposed student projects. Each project
   is courtesy of the student named, and used with permission.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
