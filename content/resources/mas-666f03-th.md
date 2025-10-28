@@ -4,10 +4,9 @@ description: New image Upload
 file: /courses/mas-666-developmental-entrepreneurship-fall-2003/b030f4e0039f4a3249c406089325d254_mas-666f03-th.jpg
 file_size: 6913
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
-  caption: The Earth. (Image courtesy of [Public Domain Images](http://www.pdimages.com/web6.htm).)
+  caption: The Earth. (Image courtesy of {{% resource_link "b7f86205-4ff9-415b-bdbe-e1e1ac04bef2"
+    "Public Domain Images" %}}.)
   credit: ''
   image-alt: The Earth floating in space with Africa visible.
 learning_resource_types: []

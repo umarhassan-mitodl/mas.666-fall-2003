@@ -4,8 +4,6 @@ description: ''
 file: /courses/mas-666-developmental-entrepreneurship-fall-2003/12acb56b7f202baaf761c7d5ee532b14_FMSdeventre1.pdf
 file_size: 1449424
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

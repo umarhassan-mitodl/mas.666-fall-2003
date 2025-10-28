@@ -4,8 +4,6 @@ description: ''
 file: /courses/mas-666-developmental-entrepreneurship-fall-2003/c28738ac7e6f863abdf5d8acbed195f0_devopps.pdf
 file_size: 308896
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
